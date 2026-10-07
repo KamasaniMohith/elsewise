@@ -1,19 +1,51 @@
-# Elsewise Documentation
+# Elsewise
 
-This directory contains the documentation for the Elsewise project.
+> A cognitive playground for making spare minutes mentally meaningful.
 
-## Documents
+Elsewise is designed to turn short periods of free time into opportunities for active thinking, curiosity, discovery, and mental reset.
 
-- [Product Definition](./PRODUCT.md) — Product purpose, principles, and v0.0 goals.
+## Core Pillars
 
-## Documentation Principles
+### Challenge
+Short activities that encourage active thinking.
 
-Documentation should explain:
+### Discover
+Interesting ideas, facts, questions, and knowledge worth exploring.
 
-- Why a feature exists
-- What problem it solves
-- Important product decisions
-- Technical decisions
-- Evidence behind cognitive-related claims
+### Reset
+Short experiences designed to provide a mental pause.
 
-Important decisions should be documented rather than existing only in conversations or code.
+## Product Principles
+
+- Free-first
+- Short by design
+- Evidence-aware
+- Privacy-conscious
+- No manipulative engagement loops
+- Build progressively
+
+## Status
+
+**Version:** 0.0  
+**Status:** Early development
+
+## Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Git / GitHub
+
+## Documentation
+
+- [Product Definition](./docs/PRODUCT.md)
+- [Architecture](./docs/ARCHITECTURE.md)
+- [Documentation Guide](./docs/README.md)
+
+## Development
+
+Install dependencies:
+
+```bash
+npm install
